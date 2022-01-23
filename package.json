@@ -1,0 +1,28 @@
+{
+  "name": "week2-smallserver",
+  "version": "1.0.0",
+  "description": "2nd weeek lab activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dh0nzkie/week2-smallserver.git"
+  },
+  "keywords": [
+    "2ndweek"
+  ],
+  "author": "dhonzkie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dh0nzkie/week2-smallserver/issues"
+  },
+  "homepage": "https://github.com/dh0nzkie/week2-smallserver#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "connect-js": "^0.5.8",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
